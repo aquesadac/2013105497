@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace _2013105497
 {
-    class Program
+    public class ensambladora
     {
+        private Carro _Carro;
+
         static void Main(string[] args)
         {
         }
