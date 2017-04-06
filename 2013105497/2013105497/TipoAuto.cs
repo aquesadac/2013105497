@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013105497
 {
-    public enum TipoDeAuto
+    public enum TipoAuto
     {
         Sedan,
         PickUP,

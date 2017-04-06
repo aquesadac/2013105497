@@ -15,7 +15,8 @@ namespace _2013105497
         {
             NumSerie = _numserie;
         }
-       
+
+        public Volante() { }
     }
 }
 

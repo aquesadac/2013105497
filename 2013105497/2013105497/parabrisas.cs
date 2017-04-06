@@ -14,6 +14,9 @@ namespace _2013105497
         {
             NumSerie = _numSerie;
         }
+
+        public Parabrisas() { }
+
     }
 }
 

@@ -41,8 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="asiento.cs" />
+    <Compile Include="Automovil.cs" />
+    <Compile Include="Bus.cs" />
+    <Compile Include="Carro.cs" />
+    <Compile Include="cinturon.cs" />
+    <Compile Include="ensambladora.cs" />
+    <Compile Include="Llanta.cs" />
+    <Compile Include="Parabrisas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Propietario.cs" />
+    <Compile Include="TipoBus.cs" />
+    <Compile Include="TipoCarro.cs" />
+    <Compile Include="TipoAuto.cs" />
+    <Compile Include="Volante.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

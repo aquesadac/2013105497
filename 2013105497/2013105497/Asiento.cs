@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace _2013105497
 {
-    class Asiento
+    class asiento
     {
         cinturon _cinturon;
         public String NumSerie { get; set; }
 
-        public Asiento(String _numSerie)
+        public asiento(String _numSerie)
         {
             _cinturon = new cinturon();
             NumSerie = _numSerie;
         }
+        public asiento() { }
+
     }
     }
 

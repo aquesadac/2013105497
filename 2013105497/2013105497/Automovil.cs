@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace _2013105497
 {
-   public  class Automovil : Carro
+    class Automovil : Carro
     {
+        public TipoAuto TipoAuto { get; set; }
+
+        public Automovil()
+            : base()
+        {
+
+        }
+
+
+
     }
 }
+
+

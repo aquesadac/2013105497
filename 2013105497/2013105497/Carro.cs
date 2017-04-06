@@ -9,8 +9,7 @@ namespace _2013105497
     public class Carro
     {
     Llanta _llanta;
-    Asiento _asiento;
-    cinturon _cinturon;
+    asiento _asiento;
     Parabrisas _parabrisas;
     Volante _volante;
     public string NumSerieMotor { get; set; }
@@ -27,6 +26,8 @@ namespace _2013105497
 
 
     }
+
+    public Carro() { }
    
     }
 }
